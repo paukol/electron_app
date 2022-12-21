@@ -6,7 +6,7 @@
   "author": "Paulina Kolonczyk <paulinakolonczyk@interia.pl>",
   "license": "MIT",
   "dependencies": {
-    "electron": "5.0.6"
+    "electron": "19.1.5"
   },
   "scripts": {
     "start": "electron main.js"
